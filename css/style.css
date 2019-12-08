@@ -650,6 +650,16 @@ footer .item .soc-netw svg{
 		width: 70%;
 		margin: 0 auto;
 	}
+	
+	.container6 .top-color form .form-down input[type="submit"] {
+		height: 42px;
+		width: 110px;
+		padding: 13px 33px;
+	}
+
+	.form-down label {
+		font-size:10px;
+	}
 
 	footer p {
 		font-size: 10px;
