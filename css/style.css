@@ -254,12 +254,9 @@ header .logo{
 	opacity: 0.8;
 	}
 	
-
 .container5 .item_img:hover .hover_cart{
 	display: block;
-	
 }
-
 
 .container5 .item_img .hover_cart a{
 	position: absolute;
@@ -269,6 +266,7 @@ header .logo{
 	border-radius: 3px;
 	padding: 12px 12px;
 }
+
 .container5 .item_img .hover_cart .icon1{
 	margin-left: -45px;
 	margin-top: 100px;
@@ -356,7 +354,6 @@ header .logo{
 	color: #fff;
 	font-size: 15px;
 	padding: 17px 50px;
-
 }
 
 .container6 .top-color form .form-down input[type="submit"]:hover{
